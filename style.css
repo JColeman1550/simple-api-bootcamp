@@ -1,0 +1,46 @@
+body {
+  text-align: center;
+  font-size: 40px;
+  font-family: 'Pokemon Solid',Arial, sans-serif;
+  background-color: #1360ad;
+  color: yellow;
+  background-image: url('https://cdn.pixabay.com/photo/2016/07/23/13/21/pokemon-1536855_640.png');
+}
+
+
+
+input{
+    border-radius: 25px;
+    margin-top: 200px;
+    width: 300px;       
+    height: 50px; 
+    border: 2px solid black;
+    
+}
+
+input::placeholder{
+    font-family: 'Pokemon Solid',Arial, sans-serif;
+    color: black;
+}
+
+button{
+    border-radius: 25px;
+    width: 100px;       
+    height: 50px; 
+    background-color: red;
+    font-family: 'Pokemon Solid',Arial, sans-serif;
+    color: yellow;
+}
+
+div {
+    text-align: center;
+}
+
+img {
+    display: block;
+    margin: 20px auto;  
+    width: 300px;        
+    height: 200px;      
+}
+
+
